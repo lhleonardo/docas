@@ -1,3 +1,4 @@
+import datetime
 '''
 Created on 10/08/2015
 
@@ -8,7 +9,6 @@ A partir desses processos, será possível adicionar o conteúdo em uma imagem de Q
 @author: Leonardo Braz
 @contact: lhleonardo@hotmail.com
 '''
-import datetime
 
 def criptografa(self, data):
         '''
